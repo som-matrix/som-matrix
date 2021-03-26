@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @som-matrix
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Gatsby,Next.
+- 🌱 I’m currently learning Gatsby,Node and Express.
 - 💞️ I’m looking to collaborate and participate in frontend development hackathons and open source projects
 - 📫 How to reach me "swaroopsatya36@gmail.com"
 
