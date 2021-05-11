@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @som-matrix
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning and doing React ,Gatsby and Node,Express,MongoDB.
-- 💞️ I’m looking to collaborate and participate in frontend development hackathons and open source projects
+- 👀 I’m a Frontend Developer Intern 
+- 🌱 I’m currently adding value to my code and training myself to be a better programmer
+- 💞️ I’m lcurrently contributing to best industry level projects.
 - 📫 How to reach me "swaroopsatya36@gmail.com"
-
+My Tech Skills
+HTML , CSS , SCSS , JavaScript , React , Node ,Express ,MongoDB , React-Router , Redux , Styled Components , Tailwind CSS 
 <!---
 som-matrix/som-matrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
