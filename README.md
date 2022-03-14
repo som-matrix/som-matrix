@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @som-matrix
-- 👀 I’m a Frontend Developer Intern 
+- 👀 I’m a Frontend Developer 
 - 🌱 I’m currently adding value to my code and training myself to be a better programmer
 - 💞️ I’m currently contributing to industry level projects.
 - 📫 How to reach me "swaroopsatya36@gmail.com"
